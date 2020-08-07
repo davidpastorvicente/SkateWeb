@@ -1,0 +1,46 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.light {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.dark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.wrapper {
+    margin-top: 20px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.more {
+    background-color: coral;
+    color: white;
+    font-weight: 500;
+}
+
+.pad {
+    padding: 20px;
+}
+
+.padUp {
+    padding: 2rem 3rem 0;
+}
+
+.fa {
+    margin: 15px;
+}
+
+.grey {
+    color: white;
+}
